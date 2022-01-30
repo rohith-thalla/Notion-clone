@@ -57,6 +57,9 @@
   .main-heading {
     font-size: 4rem;
   }
+  .hero-image {
+    height: 20rem;
+  }
   .accordion {
     display: none;
   }
